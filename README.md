@@ -1,2 +1,13 @@
-# GP_Winner_Prediction
-Streamlit app that predicts 2025 F1 GP Winners based on previous season race datasets
+---
+title: GP Winner Prediction
+emoji: 🌖
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: 1.43.2
+app_file: app.py
+pinned: false
+short_description: Predicts Formula One  GP Winner
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
